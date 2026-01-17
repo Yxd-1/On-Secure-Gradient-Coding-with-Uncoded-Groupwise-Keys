@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 message: "This repository hosts the extended version of the paper including full proofs."
+type: manuscript
 authors:
   - family-names: You
     given-names: Xudong
