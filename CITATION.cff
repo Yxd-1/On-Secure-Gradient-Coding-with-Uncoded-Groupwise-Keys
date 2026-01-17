@@ -1,19 +1,8 @@
 cff-version: 1.2.0
-title: "Secure Gradient Coding with Uncoded Groupwise Keys (Extended Version)"
-message: >
-  This repository hosts the extended version of the paper including full proofs.
-type: other
+message: "This repository hosts the extended version of the paper including full proofs."
 authors:
   - family-names: You
     given-names: Xudong
-repository-code: "https://github.com/Yxd-1/On-Secure-Gradient-Coding-with-Uncoded-Groupwise-Keys"
-date-released: 2026-01-17
-
-preferred-citation:
-  type: manuscript
-  authors:
-    - family-names: You
-      given-names: Xudong
-  title: "On Secure Gradient Coding with Uncoded Groupwise Keys"
-  year: 2026
-  notes: "Extended version available on GitHub"
+title: "On Secure Gradient Coding with Uncoded Groupwise Keys"
+date-released: 2026-1-17
+url: "https://github.com/Yxd-1/On-Secure-Gradient-Coding-with-Uncoded-Groupwise-Keys"
